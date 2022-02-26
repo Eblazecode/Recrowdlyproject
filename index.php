@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content=" Recrowdly is an animation studio that’s known for its diverse services
-    in animation that include 2D, 3D and mixed media agency ">
+    in animation that include 2D, 3D and mixed media agency. Punch media Agency ">
     <meta name="keywords" content="Recrowdly, 2D, 3D, mixed media , design , graphices">
      <meta name="author" content="Enoch ojonimi Daniel">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -114,7 +114,7 @@
 
        <!--=================Overview Section================= -->
        <section class="overview-section bg-ash wow fadeIn text-white pb-5 pt-lg-5 bg_img"
-        data-background="assets/images/overview/blacky.JPG" id="about">
+        data-background="assets/images/overview/blacky.jpg" id="about">
         <div class="container-fluid p-lg-0">
             <div class="row m-0 flex-wrap-reverse justify-content-between">
                 <div class="col-lg-6 padding-bottom padding-top">

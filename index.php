@@ -44,12 +44,12 @@
             <div class="container">
                 <div class="header-area">
                     <div class="logo">
-                        <a href="index.html"><img src="assets/images/logo/Recrowdly logo white.svg"
-                            alt="logo"></a>
+                        <a href="index.php"><img src="assets/images/logo/Recrowdly logo white.svg"
+                                                 alt="logo"></a>
                     </div>
                     <ul class="menu">
                         <li>
-                            <a href="index.html">Home</a>
+                            <a href="index.php">Home</a>
 
                         </li>
                         <li>
@@ -905,10 +905,10 @@ data-background="assets/images/overview/blacky.JPG" >
         <div class="footer-bottom py-3 py-sm-4 text-center">
             <div class="container">
                 <div class="logo">
-                    <a href="index.html"><img src="assets/images/logo/Recrowdly logo white.svg" 
-                       style="width: 150px;" alt="logo"></a>
+                    <a href="index.php"><img src="assets/images/logo/Recrowdly logo white.svg"
+                                             style="width: 150px;" alt="logo"></a>
                 </div>
-                <p class="m-0" > <a href="index.html">Punch Media • ALL Right Reserved © 2022 </a></p>
+                <p class="m-0" > <a href="index.php">Punch Media • ALL Right Reserved © 2022 </a></p>
             </div>
         </div>
     </footer>

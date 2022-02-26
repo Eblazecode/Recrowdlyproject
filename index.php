@@ -113,7 +113,7 @@
     
 
        <!--=================Overview Section================= -->
-       <section class="overview-section bg-ash wow fadeIn text-white pb-5 pt-lg-5 bg_img"
+       <section class="overview-section bg-ash wow fadeIn bg-dark text-white pb-5 pt-lg-5 bg_img"
         data-background="assets/images/overview/blacky.jpg" id="about">
         <div class="container-fluid p-lg-0">
             <div class="row m-0 flex-wrap-reverse justify-content-between">

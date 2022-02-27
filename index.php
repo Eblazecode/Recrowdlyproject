@@ -48,7 +48,7 @@
                 </div>
                 <ul class="menu font-weight-light">
                     <li>
-                        <a href="index.html">Home</a>
+                        <a href="index.php">Home</a>
 
                     </li>
                     <li>
@@ -109,7 +109,7 @@
 
 <!--=================Overview/About Section================= -->
 <section class="overview-section bg-ash wow fadeIn text-white pb-5 pt-lg-5 bg_img"
-         data-background="assets/images/overview/blacky.JPG" id="about">
+         data-background="assets/images/overview/blacky.jpg" id="about">
     <div class="container-fluid p-lg-0">
         <div class="row m-0 flex-wrap-reverse justify-content-between">
             <div class="col-lg-6 padding-bottom padding-top">
@@ -515,7 +515,7 @@
 
 
 <section class="overview-section bg-ash wow fadeIn bg-dark text-white pb-3 bg_img"
-         data-background="assets/images/overview/blacky.JPG" >
+         data-background="assets/images/overview/blacky.jpg" >
     <div class="container-fluid p-lg-0">
         <div class="row m-0 flex-wrap-reverse justify-content-between">
             <div class="col-lg-6 padding-bottom padding-top">
@@ -866,7 +866,7 @@
             <div class="row mb-50-none">
                 <div class="col-sm-6 col-lg-3">
                     <div class="footer-widget footer-link">
-                        <a href="index.html" >Home</a>
+                        <a href="index.php" >Home</a>
                     </div>
                 </div>
                 <div class="col-sm-6 col-lg-3">
@@ -907,10 +907,10 @@
     <div class="footer-bottom py-3 py-sm-4 text-center">
         <div class="container">
             <div class="logo">
-                <a href="index.html"><img src="assets/images/logo/Recrowdly logo white.svg"
+                <a href="index.php"><img src="assets/images/logo/Recrowdly logo white.svg"
                                           style="width: 150px;" alt="logo"></a>
             </div>
-            <p class="m-0" > <a href="index.html">Punch Media • ALL Right Reserved © 2022 </a></p>
+            <p class="m-0" > <a href="index.php">Punch Media • ALL Right Reserved © 2022 </a></p>
         </div>
     </div>
 </footer>
